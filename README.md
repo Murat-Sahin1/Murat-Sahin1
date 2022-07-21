@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Solidity for Blockchain Apps (Ethereum), React Native for Mobile App Development
 - 💞️ I’m looking to collaborate on a Token made with Solidity. Hit me up if you also looking for that!
 - 🦚 I also upload AI algorithm implementations regularly. So, keep in touch to see the new algorithms coming!
-- 📫 How to reach me: 18155057@mersin.edu.tr
+- 📫 How to reach me: murat.sahin.dev@gmail.com
