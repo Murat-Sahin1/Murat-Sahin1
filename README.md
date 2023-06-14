@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Murat-Sahin1
 - 👀 I’m interested in Computer Engineering and Science. Here are the subjects that I am currently working on: 
-- 🌱 I’m currently learning Web Development and some Machine Learning applications.
-- 🦚 I also upload AI algorithm implementations regularly.
+- 🌱 I’m currently learning and developing in Web Development with Asp.Net Core and React as my stack.
+- 🦚 I also upload and work with Machine Learning models sometimes as a hobby.
 - 📫 How to reach me: murat.sahin.dev@gmail.com
