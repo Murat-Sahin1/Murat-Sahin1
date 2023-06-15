@@ -18,6 +18,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What are CORS policies, and why do we need them?](https://medium.com/@murat.sahin.dev/what-are-cors-policies-and-why-do-we-need-them-8b12cf50f68c?source=rss-202cf001ff0b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
