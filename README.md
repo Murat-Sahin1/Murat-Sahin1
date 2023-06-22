@@ -18,6 +18,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Most Simple and Practical Guide to Git: A Cheat Sheet](https://medium.com/@murat.sahin.dev/the-most-simple-and-practical-guide-to-git-a-cheat-sheet-d8e67c2de5e7?source=rss-202cf001ff0b------2)
 - [What are CORS policies, and why do we need them?](https://medium.com/@murat.sahin.dev/what-are-cors-policies-and-why-do-we-need-them-8b12cf50f68c?source=rss-202cf001ff0b------2)
 <!-- BLOG-POST-LIST:END -->
 
